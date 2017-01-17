@@ -17,6 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    吃饭GV不回家你考虑从，V不能 v不能看吗
     return YES;
 }
 
